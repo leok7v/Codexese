@@ -8,7 +8,7 @@ It is not encryption. Anybody who has Codexese can read a page. It is a
 fun way to send messages, not a lock.
 
 - iPhone and iPad: [Codexese on the App Store](https://apps.apple.com/app/id6837726784)
-- Mac: the Mac App Store version is in review, or install with Homebrew:
+- Mac: [Codexese on the Mac App Store](https://apps.apple.com/app/id6837726784), or install with Homebrew:
 
       brew tap leok7v/tap
       brew trust leok7v/tap
